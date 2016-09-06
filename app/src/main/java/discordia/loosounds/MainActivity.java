@@ -8,21 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
-    public MediaPlayer a;
-    public MediaPlayer b;
-    public MediaPlayer c;
-    public MediaPlayer d;
-    public MediaPlayer e;
-    public MediaPlayer f;
-    public MediaPlayer g;
-    public MediaPlayer h;
-    public MediaPlayer i;
-    public MediaPlayer j;
-    public MediaPlayer k;
-    public MediaPlayer l;
-    public MediaPlayer m;
-    public MediaPlayer n;
-    public MediaPlayer o;
+    public MediaPlayer a, b, c, d, e, f, g, h, i, j, k, l, m, n, o;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
